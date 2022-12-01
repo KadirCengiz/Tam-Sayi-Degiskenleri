@@ -1,1 +1,1 @@
-# TamSayilar
+# Tam Sayi Degiskenleri
